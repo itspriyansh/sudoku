@@ -1,0 +1,11 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Sudoku Solver",
+  "main": "index.js",
+  "author": "Priyansh Bhardwaj",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
